@@ -7,6 +7,9 @@ This repository is AUTO SOLVER for Evolution Gaming recruitment hometask homewor
 
 - Manage your time and dont spend a lot to apply this job.
 
+# React Typescript client
+Check repo: https://github.com/car1ot/evolution-pipes 
+
 # Goal
 
 Solve pipes puzzle automatically from server. This code base will help you solving pipes puzzle.
